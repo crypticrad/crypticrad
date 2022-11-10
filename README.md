@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 </div>
 
 <div id='profile-header--badges' align='center'>
-  <a href='#'>
+  <a href='https://www.linkedin.com/in/joeljoeroy/'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' alt='LinkedIn Badge' />
   </a>
-  <a href='#'>
+  <a href='https://www.youtube.com/channel/UC80y7sVAXopMZoXOjKYKDmQ'>
     <img src='https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white' alt='Youtube Badge' />
   </a>
-  <a href='#'>
+  <a href='https://twitter.com/____________rad'>
     <img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white' alt='Twitter Badge' />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=crypticrad&style=flat-square&color=blue" alt=""/>
