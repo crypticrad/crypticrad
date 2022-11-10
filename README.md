@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   - :zombie: FW Patcher for fun 
 
 **Gear**
-  - :desktop_computer: Arch Power user
+  - :desktop_computer: Arch
   - :iphone: Project Elixir (lemonades)
   - :computer_mouse: Viper Ultimate 
 --- 
