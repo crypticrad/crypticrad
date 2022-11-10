@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crypticrad&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-![R ∆ D's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticrad&show_icons=true&theme=dracula)
+![R ∆ D's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticrad&show_icons=true&theme=tokyonight)
   
