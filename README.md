@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <a href='https://twitter.com/____________rad'>
     <img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white' alt='Twitter Badge' />
   </a>&nbsp;
+    <a href='https://discordapp.com/users/516801899911970817'>
+    <img src='https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white' alt='Twitter Badge' />
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=crypticrad&style=flat-square&color=blue" alt=""/>
 </div>
 
