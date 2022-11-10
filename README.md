@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 --- 
 
-### :hammer_and_wrench: Armory
+### :crossed_swords: Armory
 <div id='profile-armory' >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Redux" alt="Redux " width="25" height="25"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
@@ -52,5 +52,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI"width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="25" height="25"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" **alt="Git" width="25" height="25"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="25" height="25"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" **alt="Git" width="25" height="25"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" **alt="Git" width="25" height="25"/>&nbsp;
 </div>
+
+---
+
+### :trophy: Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crypticrad&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+![Zek3's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticrad&show_icons=true&theme=tokyonight)
+  
