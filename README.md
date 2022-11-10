@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   </a>
   <a href='#'>
     <img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white' alt='Twitter Badge' />
-  </a>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=crypticrad&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -37,8 +38,16 @@ Here are some ideas to get you started:
 ---
 
 ### :shipit: About Me:
-  Full Stack Web Dev
+  Full Stack Web Dev 
   
+  - :briefcase: TS MERN Developer
+  - :video_game: Valorant Gold Player
+  - :zombie: FW Patcher for fun 
+
+**Gear**
+  - :desktop_computer: Arch Power user
+  - :iphone: Project Elixir (lemonades)
+  - :computer_mouse: Viper Ultimate 
 --- 
 
 ### :crossed_swords: Armory
@@ -54,8 +63,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="25" height="25"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" **alt="Git" width="25" height="25"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Git" width="25" height="25"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" **alt="Git" width="25" height="25"/>&nbsp;
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" **alt="Git" width="25" height="25"/>&nbsp;
+
 </div>
 
 ---
