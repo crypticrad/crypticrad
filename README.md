@@ -32,14 +32,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=crypticrad&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
-<div id='profile-banner' align='center'>
-  <img src='https://media.giphy.com/media/3FQ87l4tXAZWGvV3yY/giphy.gif' width='75%' height=200  />
-</div>
-
----
-
 ### :shipit: About Me:
   Full Stack Web Dev 
   
