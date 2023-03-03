@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 ### :shipit: About Me:
   Full Stack Web Dev 
   
-  - :briefcase: TS MERN Developer
-  - :video_game: Valorant Gold Player
+  - :briefcase: TS Full Stack Developer
   - :zombie: FW Patcher for fun 
 
 **Gear**
