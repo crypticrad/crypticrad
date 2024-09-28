@@ -33,15 +33,18 @@ Here are some ideas to get you started:
 </div>
 
 ### :shipit: About Me:
-  Full Stack Web Dev 
-  
-  - :briefcase: TS Full Stack Developer
-  - :zombie: FW Patcher for fun 
+## Web Developer
+  - ⚛️ React (Remix, EXPO, NextJS)
+  - TypeScript
+  - NodeJS (Express, NestJS)
+  - MYSQL | MongoDB | Cassandra | CockroachDB
+  - AWS / Azure
+  - .NET
 
-**Gear**
-  - :desktop_computer: Arch
-  - :iphone: Project Elixir (lemonades)
-  - :computer_mouse: Viper Ultimate 
+## App Development
+ - C# | .NET Core / MAUI
+ - Swift (UI)
+ - Linux OpenGL (errrr)
 --- 
 
 ### :crossed_swords: Armory
