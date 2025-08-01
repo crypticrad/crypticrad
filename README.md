@@ -33,18 +33,18 @@ Here are some ideas to get you started:
 </div>
 
 ### :shipit: About Me:
-## Web Developer
-  - ⚛️ React (Remix, EXPO, NextJS)
-  - TypeScript
-  - NodeJS (Express, NestJS)
-  - MYSQL | MongoDB | Cassandra | CockroachDB
-  - AWS / Azure
-  - .NET
+## Client Facing
+  - ⚛️ React, Next
+  - ☘️ TypeScript
+  - 🦁 NestJS
+  - 🫙 MYSQL | MongoDB | PostgreSQL
+  -  ⏿ AWS / Azure
+  - 🍎 Swift 
+  - 🚀 Go
 
-## App Development
- - C# | .NET Core / MAUI
- - Swift (UI)
- - Linux OpenGL (errrr)
+## Systems Engineering
+ - 💻 Linux OpenGL (errrr)
+ - 🦀 Rust
 --- 
 
 ### :crossed_swords: Armory
